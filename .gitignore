@@ -1,0 +1,7 @@
+data.out
+INFOR
+initial_guess.in
+INPUT.txt
+profiles.out
+*.o
+*.mod
